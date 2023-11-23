@@ -1,6 +1,6 @@
 ### Quick Server
 
-Code snippets for quickly start HTTP and WebSocket servers.
+Code snippets for HTTP and WebSocket servers.
 
 - HTTP
 
